@@ -2,4 +2,5 @@ My name is shahid
 I am a web developer
 Fawjan my daughter
 slove bug issue
-Conflict 2
+Conflict resolve 1
+
